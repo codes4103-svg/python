@@ -7,4 +7,4 @@ def home():
     return "<h1>Hello, Flask!</h1><p>這是一個簡單的網頁測試。</p>"
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000)
+    app.run(host='0.0.0.0', port=8080)
