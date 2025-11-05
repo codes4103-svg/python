@@ -6,5 +6,4 @@ app = Flask(__name__)
 def hello():
     return 'Hello from Flask on Cloud Run!'
 
-if __name__ == '__main__':
-    app.run()
+
