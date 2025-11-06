@@ -14,4 +14,5 @@ RUN pip install flask
 EXPOSE 80
 
 # 啟動 Flask 應用
-CMD ["python", "app.py"]
+CMD ["python", "app.py"] 
+
